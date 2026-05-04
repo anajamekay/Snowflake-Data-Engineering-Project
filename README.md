@@ -1,3 +1,5 @@
+🔗 Portfolio: [My Portfolio](https://github.com/anajamekay)
+
 # Snowflake-Data-Engineering-Project
 A scalable data pipeline using Snowflake for efficient data storage, transformation, and analysis
 
@@ -33,3 +35,4 @@ To design a robust data architecture that supports analytics and reporting workf
 - Supports real-time analytics
 - Enables data-driven decisions
 - Scalable for enterprise use
+
